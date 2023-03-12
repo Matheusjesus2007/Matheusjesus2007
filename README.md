@@ -3,9 +3,10 @@ Sou um estudante de desenvolvimento web full-stack e já possuo conhecimentos em
 
 ## Estatísticas 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=matheusjesus2007&theme=blue-green&count_private=true" height="200px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusjesus2007&theme=blue-green" height="200px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesus2007&theme=blue-green" height="200px">
 </div>
+
 
 ## Habilidades
 <div>
@@ -18,7 +19,7 @@ Sou um estudante de desenvolvimento web full-stack e já possuo conhecimentos em
   </div>
   
 ## Projetos
-Aqui estão alguns dos projetos que desenvolvi:
+Aqui estão alguns dos meus projetos:
   
 ### App-receitas
 Este é um projeto de aplicação web para resolução 360 x 640, que permite pesquisar receitas, com tela de login, sugestões de receitas ou categorias, filtro de     receitas, detalhes completos e recursos como marcação de etapas, favoritos e compartilhamento.  
