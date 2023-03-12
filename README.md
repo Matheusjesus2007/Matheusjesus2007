@@ -1,4 +1,4 @@
-# Olá eu sou o Matheus Alexandrino ✌️  
+# Olá eu sou o Matheus de Jesus Alexandrino ✌️  
 Sou um estudante de desenvolvimento web full-stack e já possuo conhecimentos em tecnologias como JS, HTML, CSS, React, Testes unitários, React Router dom, Dynamic Routing, LocalStorage, Context API, Hooks. Atualmente, estou focado em expandir meus conhecimentos no desenvolvimento de back-end, estudando e praticando tecnologias como Node.js, Express, MongoDB, MySQL entre outras.
 
 ## Estatísticas 
