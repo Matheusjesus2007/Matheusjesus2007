@@ -17,12 +17,9 @@ Sou um estudante de desenvolvimento web full-stack e já possuo conhecimentos em
   <img align="center" alt="REACT-ROUTER" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   </div>
   
-## Projetos
-Aqui estão alguns dos meus projetos:
-  
-### App-receitas
+## Projetos  
+### [App-receitas](https://github.com/Matheusjesus2007/App-recipes)
 Este é um projeto de aplicação web para resolução 360 x 640, que permite pesquisar receitas, com tela de login, sugestões de receitas ou categorias, filtro de     receitas, detalhes completos e recursos como marcação de etapas, favoritos e compartilhamento.  
-Link do repositório: https://github.com/Matheusjesus2007/App-recipes
 
 ## Contato
 [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alexandrino-dev/)
