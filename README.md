@@ -7,7 +7,6 @@ Sou um estudante de desenvolvimento web full-stack e já possuo conhecimentos em
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesus2007&theme=blue-green" height="200px">
 </div>
 
-
 ## Habilidades
 <div>
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
